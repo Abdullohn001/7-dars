@@ -84,29 +84,6 @@
 
 // 6-masala
 
-// let arr = [7, 4, 9, 2, 3, 1, 5];
-// let min = arr[0];
-// let max = arr[0];
-// let m;
-// let k;
-// function maxMinArr(arr) {
-//   for (let i = 0; i < arr.length; i++) {
-//     if (min > arr[i]) {
-//       min = arr[i];
-//       k = i;
-//     } else if (max < arr[i]) {
-//       max = arr[i];
-//       m = i;
-//     }
-//   }
-//   console.log(`max: ${max}, min:${min}`);
-//   arr[k] = max;
-//   arr[m] = min;
-//   return arr;
-// }
-
-// console.log(maxMinArr(arr));
-
 // 7-masala
 
 // let arr = [1, 5, 8, 9, 10];
